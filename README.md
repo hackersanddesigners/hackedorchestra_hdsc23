@@ -1,4 +1,7 @@
-# Hacked Orchestra - HDSC 2023
+# Hacked Orchestra instructions - HDSC 2023
+
+ <img src="./images/dynamosound.jpeg" alt="kit1" width="800"> 
+
 
 These are the components kits and instructions for the Hacked Orchestra workshop during summer camp 2023. We are highly indebted to Nic Collins' fun experiments from the book [Handmade Electronic Music](https://www.nicolascollins.com/handmade.htm). 
 
