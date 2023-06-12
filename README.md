@@ -1,8 +1,12 @@
 # Hacked Orchestra - HDSC 2023
 
-These are the kits and instructions we prepared for the Hacked Orchestra workshop during summer camp 2023. We are highly indebted to Nic Collins' fun experiments from the book Handmade Electronic Music. 
+These are the components kits and instructions for the Hacked Orchestra workshop during summer camp 2023. We are highly indebted to Nic Collins' fun experiments from the book [Handmade Electronic Music](https://www.nicolascollins.com/handmade.htm). 
 
 A mini guitar amp is provided with all the kits, this is powered with a 9V battery for the moment. In the future we could try and find ways to power it with renewable energy. 
+
+These are very basic recipes to turn "signals" around us into sound. It's up to you to explore what kind of possible instrument you could make with this and how (and by whom or by what) they should be played. 
+
+
 
 **Workshop script**
 
