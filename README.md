@@ -41,7 +41,7 @@ These are very basic recipes to turn "signals" around us into sound. It's up to 
 
 This basic tool uses an electret microphone to create signals. These are so small that we need a class D amplifier to make them audible. By powering it directly from a 5V solar cell, playing with light and shadows will give you different sounds. You 
 
- <img src="./images/4.solar.png" alt="kit4" width="800"> 
+ <img src="./images/5.solar_v2.png" alt="kit4" width="800"> 
 
 
 ## Bonus round: audible networks
